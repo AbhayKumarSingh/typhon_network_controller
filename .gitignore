@@ -1,3 +1,6 @@
 *.class
 test/
+text.txt
+*.swp
+*.bat
 
